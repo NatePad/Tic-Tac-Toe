@@ -1,4 +1,4 @@
-### Tic-Tac-Toe.
+# Tic-Tac-Toe.
 
 This is an exercise in CSS animations, objects, 2d arrays, and algorithms.
 
