@@ -1,0 +1,44 @@
+body {
+  margin-bottom: 30px;
+}
+
+.x-mid {
+  border-top: 5px solid #333;
+  border-bottom: 5px solid #333;
+}
+
+.y-mid {
+  border-left: 5px solid #333;
+  border-right: 5px solid #333;
+}
+
+#board,
+#choose-xo button {
+  font-size: 10vw;
+}
+
+.display-none {
+  display: none;
+}
+
+#choose-xo button {
+  line-height: 1;
+  padding: 30px;
+}
+
+#choose-xo header {
+  margin-bottom: 20px;
+}
+
+#board {
+  color: white;
+  margin-top: 30px;
+}
+
+#board .col-4:hover {
+  background-color: #333;
+}
+
+#board .fill-in {
+  color: #777;
+}
